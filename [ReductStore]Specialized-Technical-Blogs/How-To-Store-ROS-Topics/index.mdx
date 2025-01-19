@@ -75,7 +75,5 @@ When choosing how to store ROS topics, consider data size, query needs, and scal
 - **Query and Filtering Needs**: Storing each topic separately in ReductStore gives you more control over how you query and filter the data, especially when you need specific metadata, like vibration data or logs, for efficient analysis.
 - **Cost and Complexity**: Storing topics separately offers great flexibility, but it takes more planning and management. If you're on a budget, simpler solutions like Rosbag or storing entire bag files in a time-series storage like ReductStore can work well for smaller projects.
 
-Conclusion
+## Conclusion
 In conclusion, there are various ways to store ROS data, each with its own set of advantages and disadvantages. Choosing the right storage method for your ROS topics depends on data size, query needs, and scalability. For larger datasets and advanced filtering, ReductStore's time-series storage is a great fit. Smaller projects may find simpler options like Rosbag more suitable. Therefore, it's important to consider the specific requirement of your project and plan accordingly. Discover how [**ReductStore**](https://www.reduct.store/) can simplify your ROS topic storage, making it easier to manage images and other data efficiently.
-
-If you have any questions or comments, feel free to use the [**ReductStore Community Forum**](https://community.reduct.store).
