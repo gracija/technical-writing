@@ -1,6 +1,6 @@
 # AI in smart procurement
 
-In the age of automation and digitalization_, smart procurement_ is experiencing a rise in popularity due to its ability to help companies advance and gain a competitive advantage.
+In the age of automation and digitalization, _smart procurement_ is experiencing a rise in popularity due to its ability to help companies advance and gain a competitive advantage.
 
 Throughout the years, it has become evident that _procurement_ plays an important role in shaping the company’s future since its growth and overall success are influenced by the capabilities, knowledge, productivity, and efficiency of the CPOs (Chief Procurement Officer) and their teams, among other factors. Yet, a huge amount of the procurement professionals’ time is spent on simple administrative tasks and processes that can and should be automated. Moreover, the extensive scope and complexity of the data they’re dealing with amplifies the wastage of time and makes the job a real organizational and bureaucratic burden. So, the need for a quicker, more efficient, and less time-consuming way of dealing with such tasks has arisen.
 
